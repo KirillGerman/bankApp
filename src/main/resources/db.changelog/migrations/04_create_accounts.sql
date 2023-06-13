@@ -1,0 +1,10 @@
+INSERT INTO public.account (id, user_id, balance) VALUES(1, NULL, 100.10);
+INSERT INTO public.account (id, user_id, balance) VALUES(2, NULL, 100.10);
+INSERT INTO public.account (id, user_id, balance) VALUES(3, NULL, 100.10);
+INSERT INTO public.account (id, user_id, balance) VALUES(4, NULL, 100.10);
+INSERT INTO public.account (id, user_id, balance) VALUES(5, NULL, 100.10);
+INSERT INTO public.account (id, user_id, balance) VALUES(6, NULL, 100.10);
+INSERT INTO public.account (id, user_id, balance) VALUES(7, NULL, 100.10);
+INSERT INTO public.account (id, user_id, balance) VALUES(8, NULL, 100.10);
+INSERT INTO public.account (id, user_id, balance) VALUES(9, NULL, 100.10);
+INSERT INTO public.account (id, user_id, balance) VALUES(10, NULL, 100.10);

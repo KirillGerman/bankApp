@@ -1,0 +1,10 @@
+INSERT INTO public.users (id, date_of_birth, "name", "password") VALUES(nextval('hibernate_sequence'), '2020-01-01', 'Ivan', '$2a$10$6GluefJ2pLRxjKlFXWK3jODCS1zJ/ox0hHr0wc/a7emHOyWPTLdQS');
+INSERT INTO public.users (id, date_of_birth, "name", "password") VALUES(nextval('hibernate_sequence'), '2020-01-01', 'Ivan', '$2a$10$R/y/4auGdDT6gLswB//z..11Ozt5CAEPZPubDZOpVCIpPv3FE0RCa');
+INSERT INTO public.users (id, date_of_birth, "name", "password") VALUES(nextval('hibernate_sequence'), '2020-01-01', 'Ivan', '$2a$10$5SSFEXTUqSxVFxdK4TDqSutxCPgfk.P5qcGBvbuSW8fA9Vmyd3uXS');
+INSERT INTO public.users (id, date_of_birth, "name", "password") VALUES(nextval('hibernate_sequence'), '2020-01-01', 'Ivan', '$2a$10$5TWnhvdHC24uSeFCOOMpAuTUwH6sS6YyxUYdmKGby7OXRvj4vPr1u');
+INSERT INTO public.users (id, date_of_birth, "name", "password") VALUES(nextval('hibernate_sequence'), '2020-01-01', 'Ivan', '$2a$10$0lvi.67dZk.7k2Rz2Qb7eu03prQWMyBnbZR3JHmMtTy1V5dMiU90q');
+INSERT INTO public.users (id, date_of_birth, "name", "password") VALUES(nextval('hibernate_sequence'), '2020-01-01', 'Ivan', '$2a$10$BCeqtL2ku.N7w2LU1jIIcu3SwoFGHAXS5zZ5dUthrapnax3fnyhSO');
+INSERT INTO public.users (id, date_of_birth, "name", "password") VALUES(nextval('hibernate_sequence'), '2020-01-01', 'Ivan', '$2a$10$XNJhs6Q5WGtUCjcELRgo9.BthrqnHvGRRjKTiMFDQDyEczS.PmEQ6');
+INSERT INTO public.users (id, date_of_birth, "name", "password") VALUES(nextval('hibernate_sequence'), '2020-01-01', 'Ivan', '$2a$10$ngfUgcNDoE7s1BNLK1ef7O152M/YDJod4of.nVzctIMnPOe3rSTAa');
+INSERT INTO public.users (id, date_of_birth, "name", "password") VALUES(nextval('hibernate_sequence'), '2020-01-01', 'Ivan', '$2a$10$x8ooP6N3N7kAgHRrJxF6JObOwD5lvA0DRhg32XWYfJcRpOzw1Nhny');
+INSERT INTO public.users (id, date_of_birth, "name", "password") VALUES(nextval('hibernate_sequence'), '2020-01-01', 'Ivan', '$2a$10$xpxGHq8fdYPON.r3.LFZjOHPWFEEu/5zQUBxcMv.s4MTqejD3yub.');

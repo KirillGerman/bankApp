@@ -1,0 +1,4 @@
+CREATE DATABASE bank_app
+WITH
+TABLESPACE = pg_default
+CONNECTION LIMIT = -1;
