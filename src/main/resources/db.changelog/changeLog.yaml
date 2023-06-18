@@ -1,0 +1,19 @@
+databaseChangeLog:
+  - include:
+      context: default
+      file: db.changelog/migrations/00_create_sequence.sql
+  - include:
+      context: dev
+      file: db.changelog/migrations-h2/00_create_sequence_h2.sql
+  - include:
+      file: db.changelog/migrations/01_create_tables.sql
+  - include:
+      file: db.changelog/migrations/02_create_users.sql
+  - include:
+      file: db.changelog/migrations/03_create_phones.sql
+  - include:
+      file: db.changelog/migrations/04_create_accounts.sql
+  - include:
+      file: db.changelog/migrations/05_create_emails.sql
+  - include:
+      file: db.changelog/migrations/06_update_init_balance.sql

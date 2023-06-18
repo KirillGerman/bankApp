@@ -1,0 +1,1 @@
+UPDATE public.account SET max_balance = balance * 2

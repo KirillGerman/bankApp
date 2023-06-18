@@ -1,0 +1,10 @@
+INSERT INTO public.phone_data (id, user_id, phone) VALUES(1, 1, '7020884498938');
+INSERT INTO public.phone_data (id, user_id, phone) VALUES(2, 2, '4273445973832');
+INSERT INTO public.phone_data (id, user_id, phone) VALUES(3, 3, '1733995810671');
+INSERT INTO public.phone_data (id, user_id, phone) VALUES(4, 4, '5881884912840');
+INSERT INTO public.phone_data (id, user_id, phone) VALUES(5, 5, '2862316977687');
+INSERT INTO public.phone_data (id, user_id, phone) VALUES(6, 6, '4629607882285');
+INSERT INTO public.phone_data (id, user_id, phone) VALUES(7, 7, '3575392825927');
+INSERT INTO public.phone_data (id, user_id, phone) VALUES(8, 8, '3148934523005');
+INSERT INTO public.phone_data (id, user_id, phone) VALUES(9, 9, '5673926657042');
+INSERT INTO public.phone_data (id, user_id, phone) VALUES(10, 10, '2981990873797');
